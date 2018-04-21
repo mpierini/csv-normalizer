@@ -2,7 +2,7 @@
 This tool was built to be run on Ubuntu 16.04 LTS using Node.js on v9.2.1 and npm 5.5.1
 
 This command will install necessary packages and make sure that the tool's binary name can be used.
-`sudo npm install -g`
+`sudo npm install -g && npm install`
 
 Example usage:
 `csv-normalizer <filename>`
