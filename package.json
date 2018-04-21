@@ -1,0 +1,25 @@
+{
+  "name": "csv-normalizer",
+  "version": "1.0.0",
+  "description": " Tool to normalize a csv file based on specific criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpierini/csv-normalizer.git"
+  },
+  "author": "mpierini",
+  "license": "ISC",
+  "bin": {
+    "csv-normalizer": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mpierini/csv-normalizer/issues"
+  },
+  "homepage": "https://github.com/mpierini/csv-normalizer#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.16"
+  }
+}
