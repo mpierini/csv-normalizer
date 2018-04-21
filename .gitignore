@@ -1,3 +1,6 @@
+# do not include example or generated csv files
+*.csv
+
 # Logs
 logs
 *.log
